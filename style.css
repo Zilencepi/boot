@@ -11,6 +11,7 @@ body{
 	border-radius:0px !important;
 	background-color:#222356 !important;
 	height:80px;
+	width:100%;
 	z-index:1;
 }
 .nav a {
